@@ -1,4 +1,4 @@
-# Découverte de l'Overflow d'un char en C
+# Découverte de l'overflow d'un char en C
 
 ## Introduction
 
